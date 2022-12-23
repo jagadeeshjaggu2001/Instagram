@@ -1,0 +1,23 @@
+.headerContainer{
+    margin-left: 25rem;
+    display: flex;
+    align-items: center;
+    width: 800px;
+    gap: 3rem;
+}
+.headerImg{
+    width: 10rem;
+    border-radius: 50%;
+}
+.headerTitle{
+    font-size: 1.5rem;
+}
+
+
+.followBtn{
+    padding: .3rem 20rem;
+    border-radius: .5rem;
+    background-color: blue;
+    color: white;
+    border: none;
+}
